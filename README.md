@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a href="https://github.com/user286072" target="_blanck">Hi, I'm &#60;MoBix&#47;&#62;</a></h1>
+    <h1><a href="https://github.com/mobinjavari" target="_blanck">Hi, I'm &#60;Mobin&#47;&#62;</a></h1>
     <image src="https://readme-typing-svg.herokuapp.com?font=SFMono-Regular&color=1E69DE&size=16&center=true&width=510&height=45&lines=$_+I'm+a+Junior+FullStack+Developer+and+Open+Source+Lover">
 </div>
 
@@ -21,7 +21,7 @@
 <details align="center">
     <summary></summary><br>
     <div align="center">
-        <a href="https://github.com/user286072" title="Anurag's github stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=user286072&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&&border_color=30363d"></a><br><br>
-        <a href="https://github.com/user286072" title="Anurag's github stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user286072&show_icons=true&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&langs_count=100"><a/><br>
+        <a href="https://github.com/mobinjavari" title="Anurag's github stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=user286072&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&&border_color=30363d"></a><br><br>
+        <a href="https://github.com/mobinjavari" title="Anurag's github stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user286072&show_icons=true&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&langs_count=100"><a/><br>
     </div><br><br>
 </details>
