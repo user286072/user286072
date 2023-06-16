@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a href="https://github.com/mobinjavari" target="_blanck">Hi, I'm &#60;Mobin&#47;&#62;</a></h1>
+    <h1><a href="https://github.com/mobinjavari" target="_blanck">Hi, I'm Mobin Javari</a></h1>
     <image src="https://readme-typing-svg.herokuapp.com?font=SFMono-Regular&color=1E69DE&size=16&center=true&width=510&height=45&lines=$_+I'm+a+Junior+FullStack+Developer+and+Open+Source+Lover">
 </div>
 
