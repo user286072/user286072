@@ -5,7 +5,3 @@
     <li><a href="./skills.md">Skills</a></li>
     <li><a href="./status.md">Status</a></li>
 </ul>
-<br>
-<a href="mailto:mobinjavari@duck.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://github.com/mobinjavari"><img src="https://komarev.com/ghpvc/?username=mobinjavari"></a>
-<a href="https://github.com/mobinjavari"><img src="https://img.shields.io/github/followers/mobinjavari?label=Follow&style=social"></a>
