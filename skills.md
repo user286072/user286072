@@ -9,7 +9,7 @@ class Skills extends Me
     {
         return [
             'Junior FullStack Developer',
-            'Software Enginer'
+            'Software Engineer'
         ];
     }
     public function getTechStack(): array
