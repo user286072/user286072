@@ -3,5 +3,5 @@
 <ul>
     <li><a href="./about.md">About</a></li>
     <li><a href="./skills.md">Skills</a></li>
-    <li><a href="./status.md">Status</a></li>
+    <li><a href="./statistics.md">Statistics</a></li>
 </ul>
