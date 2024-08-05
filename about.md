@@ -12,7 +12,6 @@ class About extends Me
                 '01', 'Open source projects', 'Linux',
                 'Project development and management',
             ],
-            'Note' => 'In the current century, computer technology and artificial intelligence are leading to a reality beyond our imaginations, and technological advances allow us to experience a connected, intelligent, and interactive world',
             'Slogan' => 'The FREEDOM'
         ];
     }
