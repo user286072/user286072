@@ -8,7 +8,7 @@ class Skills extends Me
     public function getSkills(): array
     {
         return [
-            'Junior FullStack Developer',
+            'Backend Developer',
             'Software Engineer'
         ];
     }
