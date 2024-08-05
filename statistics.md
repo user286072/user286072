@@ -1,21 +1,47 @@
-<h1>🗿 Github Statistics</h1>
+<h1>🗿 Github Statistics</h1><br>
 <ul>
   <li>
-    <h4>GitHub Stats :</h4>
-    <div>
-      <a href="https://github.com/mobinjavari"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=mobinjavari&count_private=true&include_all_commits=true&show_icons=true&theme=neon&hide_border=true&rank_icon=github"></a>
+    <h3>Profile Details :</h3>
+    <div align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinjavari&theme=github_dark" 
+        alt="Profile Details"
+      />
     </div><br>
   </li>
   <li>
-    <h4>Top Lags :</h4>
-    <div>
-      <a href="https://github.com/mobinjavari"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&show_icons=true&layout=compact&theme=omni&hide_border=true&langs_count=100"><a/>
+    <h3>GitHub Stats :</h3>
+    <div align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mobinjavari&theme=github_dark"
+        alt="GitHub Stats"
+      />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobinjavari&theme=github_dark&utcOffset=10" 
+        alt="GitHub Stats"
+      />
     </div><br>
   </li>
   <li>
-    <h4>Streak Status :</h4>
-    <div>
-      <a href="https://github.com/mobinjavari"><img alt="Streak Stats" src="https://streak-stats.demolab.com?user=mobinjavari&theme=sunset-gradient"></a><br>
+    <h3>Top Languages :</h3>
+    <div align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinjavari&theme=github_dark"
+        alt="Top Languages"
+      />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mobinjavari&theme=github_dark" 
+        alt="Top Languages"
+      />
+    </div><br>
+  </li>
+  <li>
+    <h3>Streak Stats :</h3>
+    <div align="center">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=mobinjavari&theme=github-dark-blue&border=2A2E34&stroke=2A2E34"
+        alt="Streak Stats" 
+      />
     </div><br>
   </li>
 </ul>
