@@ -20,9 +20,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mobinjavari&theme=transparent" alt="Top Languages">
   <br><hr width="100"><br>
   <!---->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,bash,cpp,cs,java&theme=dark" alt="Front End"><br>
-  <img src="https://skillicons.dev/icons?i=git,pug,sass,tailwind,vuejs,laravel&theme=dark" alt="Back End"><br>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Graphic">
+  <img src="https://skillicons.dev/icons?i=markdown,regex,html,css,javascript,php,python,bash,cpp,cs,java&theme=dark" alt=""><br>
+  <img src="https://skillicons.dev/icons?i=git,npm,pug,sass,tailwind,vuejs,flask,laravel,sqlite,mysql&theme=dark" alt=""><br>
+  <img src="https://skillicons.dev/icons?i=linux,vim,raspberrypi,arduino,docker,postman,figma,photoshop&theme=dark" alt="">
   <br><br>
   <!---->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=80&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=50&animation=twinkling">
