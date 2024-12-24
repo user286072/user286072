@@ -13,7 +13,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobinjavari&theme=transparent&utcOffset=10" alt="GitHub Stats">
   <br><hr width="100"><br>
   <!---->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mobinjavari&theme=transparent&border=transparent&stroke=transparent" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=mobinjavari&theme=transparent&border=transparent&stroke=transparent" alt="Streak Stats">
   <br><hr width="100"><br>
   <!---->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinjavari&theme=transparent" alt="Top Languages">
